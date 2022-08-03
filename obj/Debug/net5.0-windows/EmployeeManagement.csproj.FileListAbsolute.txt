@@ -1,0 +1,162 @@
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\EmployeeManagement.exe
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\appsettings.json
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\EmployeeManagement.deps.json
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\EmployeeManagement.runtimeconfig.json
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\EmployeeManagement.runtimeconfig.dev.json
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\EmployeeManagement.dll
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\EmployeeManagement.pdb
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\BussinessObject.dll
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\DataAccess.dll
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\BussinessObject.pdb
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\DataAccess.pdb
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.csproj.AssemblyReference.cache
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.frmAddSalary.resources
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.frmAddSalaryDetail.resources
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.frmCertificateDetail.resources
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.frmCertificates.resources
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.frmEmployeeDetails.resources
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.frmEmployees.resources
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.frmEmployeeUser.resources
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.frmLogin.resources
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.frmRegulation.resources
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.frmRule.resources
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.frmRuleDetail.resources
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.frmRulesCompany.resources
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.frmSalary.resources
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.frmSalaryDetail.resources
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.frmStatistics.resources
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.frmUpdateSalary.resources
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.frmUserAddCer.resources
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.frmUserCertificate.resources
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.frmUserSalary.resources
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.frmUserSalaryDetail.resources
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.frmViewCertificate.resources
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.frmEmployeeManagement.resources
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.Properties.Resources.resources
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.csproj.GenerateResource.cache
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.AssemblyInfoInputs.cache
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.AssemblyInfo.cs
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.csproj.CoreCompileInputs.cache
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.csproj.CopyComplete
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.dll
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\refint\EmployeeManagement.dll
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.pdb
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.genruntimeconfig.cache
+D:\.NET Projects\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\ref\EmployeeManagement.dll
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\EmployeeManagement.exe
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\appsettings.json
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\EmployeeManagement.deps.json
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\EmployeeManagement.runtimeconfig.json
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\EmployeeManagement.runtimeconfig.dev.json
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\EmployeeManagement.dll
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\ref\EmployeeManagement.dll
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\EmployeeManagement.pdb
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\BussinessObject.dll
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\DataAccess.dll
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\BussinessObject.pdb
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0-windows\DataAccess.pdb
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.csproj.AssemblyReference.cache
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.frmAddSalary.resources
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.frmAddSalaryDetail.resources
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.frmCertificateDetail.resources
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.frmCertificates.resources
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.frmEmployeeDetails.resources
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.frmEmployees.resources
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.frmEmployeeUser.resources
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.frmLogin.resources
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.frmRegulation.resources
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.frmRule.resources
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.frmRuleDetail.resources
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.frmRulesCompany.resources
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.frmSalary.resources
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.frmSalaryDetail.resources
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.frmStatistics.resources
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.frmUpdateSalary.resources
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.frmUserAddCer.resources
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.frmUserCertificate.resources
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.frmUserSalary.resources
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.frmUserSalaryDetail.resources
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.frmViewCertificate.resources
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.frmEmployeeManagement.resources
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.Properties.Resources.resources
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.csproj.GenerateResource.cache
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.AssemblyInfoInputs.cache
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.AssemblyInfo.cs
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.csproj.CoreCompileInputs.cache
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.csproj.CopyComplete
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.dll
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\ref\EmployeeManagement.dll
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.pdb
+C:\Users\MTBH\Desktop\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0-windows\EmployeeManagement.genruntimeconfig.cache
